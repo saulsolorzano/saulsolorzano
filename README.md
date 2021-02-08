@@ -1,8 +1,20 @@
-### Hi there 👋
+### Hi!! I'm Saúl 🙃
+
+I'm currently Senior full stack developer mainly working with Shopify and Laravel.
+
+You can ask me for help building Shopify Themes. I try to write articles every so often in [my webstite](https://www.saulsolorzano.com/).
+
+***
+
+### Hola! Soy Saúl 🙃
+
+Soy desarrollador Full Stack trabajando principalmente con Shopify y Laravel.
+
+Si tienes alguna duda acerca de la creación de temas de Shopify, me puedes escribir. Trato de escribir artículos de vez en cuando en [mi sitio](https://www.saulsolorzano.com/).
+
+
 
 <!--
-**saulsolorzano/saulsolorzano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
